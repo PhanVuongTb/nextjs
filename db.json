@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Products A",
+      "img": "abc.jbg",
+      "price": "500",
+      "quantity": "20",
+      "desc": "20"
+    }
+  ]
+}
